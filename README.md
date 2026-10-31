@@ -33,16 +33,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### Go · New API 二次开发
+### Go · 开发
 
-参与基于 Go 的 New API 项目二次开发：
+参与基于 Go 的 视频项目开发：
 
 - 视频真人活体认证接入
 - 素材库相关功能开发
 
 **我关注的：** 新增能力如何融入已有系统，并保持清晰、可维护的边界？
 
-<sub>Go · New API · 系统接入</sub>
+<sub>Go · 认证系统接入</sub>
 
 </td>
 <td width="50%" valign="top">
