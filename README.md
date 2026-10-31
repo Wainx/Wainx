@@ -69,7 +69,7 @@
 
 <sub>JavaScript · PixiJS · HTML5 · CSS3</sub>
 
-**[查看项目 →](https://github.com/Wainx/WebGame)**
+**[在线试玩 ↗](https://wainx.github.io/WebGame/)** · [查看源码](https://github.com/Wainx/WebGame)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@
 
 ### 🌐 更多探索
 
-[**myWeb — Web 页面作品**](https://github.com/Wainx/myWeb) · HTML 页面与视觉呈现的实践。
+[**myWeb — 个人作品网站**](https://wainx.github.io/myWeb/) · 摄影展示、技能介绍与 Web 页面设计。 [查看源码 →](https://github.com/Wainx/myWeb)
 
 [浏览我的全部仓库 →](https://github.com/Wainx?tab=repositories)
 
