@@ -1,86 +1,94 @@
 <div align="center">
 
-# Hi, I'm Wainx 👋
+# Hi, I'm Wain 👋
 
-**Java Backend · Web Applications · Creative Coding**
+**FDE Engineer · Java / Go / Vue**
 
-从社区服务到浏览器游戏，用代码把想法变成作品。
+### 把问题问清楚，把方案做落地。
 
-[精选项目](#-精选项目) · [技术栈](#-技术栈) · [所有仓库](https://github.com/Wainx?tab=repositories)
+[🌐 个人网站 · 经历与作品](https://wainx.github.io/myWeb/) · [🎮 在线试玩](https://wainx.github.io/WebGame/) · [📂 公开仓库](https://github.com/Wainx?tab=repositories)
 
 </div>
 
 ---
 
-### 关于我
+我是 **Wain / Wainx**，一名从项目实施开发走向 **FDE** 的工程师。
 
-我的项目涵盖 Java 后端、Web 页面与浏览器游戏。在这里记录业务系统的实现，也保留有趣的创意实验。
+我喜欢把“为什么要做”追问清楚，再把问题拆成可以验证的改动。比起技术名词的数量，我更在意：**需求有没有被理解，方案能不能落地，交付之后是否依然好用。**
 
-- 🏘️ **业务系统**：社区服务、多租户数据隔离与工单流转。
-- ⚙️ **后端实践**：Spring Boot、Redis 并发控制与 WebSocket 实时通信。
-- 🎮 **创意开发**：用 JavaScript / PixiJS 构建浏览器游戏。
+经验在积累，判断也在打磨。希望每做完一个项目，留下的不只是代码，还有下次能用上的理解。代码之外，我也用摄影记录光影与日常。
 
-## 🧰 技术栈
+## 🧭 我的经历
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,js,html,css&perline=8" alt="Java, Spring, MySQL, Redis, Docker, JavaScript, HTML, CSS" />
-  </a>
-</p>
-
-| 方向 | 项目中使用的技术 |
+| 时间 | 角色 |
 | :--- | :--- |
-| 后端与数据 | Java · Spring Boot 3 · MyBatis-Plus · MySQL · Redis |
-| Web 与交互 | JavaScript · HTML5 · CSS3 · PixiJS · WebSocket |
-| 构建与部署 | Maven · Docker · Docker Compose |
+| **2026.07 — 至今** | **FDE 工程师** |
+| 2025.08 — 2026.05 | 项目实施开发工程师 |
 
-## 🚀 精选项目
+从实施开发到 FDE，我希望把业务理解与工程实现连接起来，关注从需求、方案到交付与迭代的完整过程。
+
+## 🛠️ 最近在做与项目实践
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏘️ 智慧社区
+### Go · New API 二次开发
 
-**社区服务管理平台**
+参与基于 Go 的 New API 项目二次开发：
 
-围绕居民、物业与管理员，组织报修、缴费与公告等社区业务。
+- 视频真人活体认证接入
+- 素材库相关功能开发
 
-- 多租户数据隔离
-- Redis 分布式锁 + 数据库乐观锁处理并发抢单
-- 工单状态流转与 WebSocket 进度推送
+**我关注的：** 新增能力如何融入已有系统，并保持清晰、可维护的边界？
 
-<sub>Java · Spring Boot · MyBatis-Plus · Redis</sub>
-
-**[查看项目 →](https://github.com/Wainx/smart-community)**
+<sub>Go · New API · 系统接入</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Potato Brothers
+### Vue · 个人博客
 
-**网页版肉鸽射击生存游戏**
+以个人博客为载体的 Vue 项目实践，把内容与页面表达连接起来。
 
-受 Brotato 启发的像素风游戏，包含波次战斗、武器成长与商店系统。
+**我关注的：** 页面结构是否服务于内容，读者能否顺利找到并理解信息？
 
-- 6 种武器、5 种敌人与 2 种 Boss
-- 20 波战斗与成就系统
-- 对象池与空间分区碰撞检测
-
-<sub>JavaScript · PixiJS · HTML5 · CSS3</sub>
-
-**[在线试玩 ↗](https://wainx.github.io/WebGame/)** · [查看源码](https://github.com/Wainx/WebGame)
+<sub>Vue · Web · 内容表达</sub>
 
 </td>
 </tr>
 </table>
 
-### 🌐 更多探索
+## 🚀 公开作品
 
-[**myWeb — 个人作品网站**](https://wainx.github.io/myWeb/) · 摄影展示、技能介绍与 Web 页面设计。 [查看源码 →](https://github.com/Wainx/myWeb)
+| 项目 | 内容与技术 | 入口 |
+| :--- | :--- | :--- |
+| **智慧社区** | 社区服务管理；多租户隔离、并发抢单、工单状态流转与实时推送。Java / Spring Boot / Redis / WebSocket | [源码](https://github.com/Wainx/smart-community) |
+| **Potato Brothers** | 受 Brotato 启发的浏览器生存游戏；20 波战斗、武器、Boss 与商店。JavaScript / PixiJS | [试玩](https://wainx.github.io/WebGame/) · [源码](https://github.com/Wainx/WebGame) |
+| **个人网站** | 职业经历、项目思考与摄影记录。一个持续更新的个人窗口 | [访问网站](https://wainx.github.io/myWeb/) · [源码](https://github.com/Wainx/myWeb) |
 
-[浏览我的全部仓库 →](https://github.com/Wainx?tab=repositories)
+## 🧰 项目中使用与实践的技术
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,vue,spring,js,mysql,redis,docker,git,html&perline=10" alt="Java, Go, Vue, Spring, JavaScript, MySQL, Redis, Docker, Git, HTML" />
+  </a>
+</p>
+
+- **后端与接入**：Java、Go、Spring Boot、New API
+- **前端与交互**：Vue、JavaScript、HTML / CSS、PixiJS
+- **数据与交付**：MySQL、Redis、Docker、Git
+
+## 💭 做项目时，我会反复问自己
+
+1. **场景是什么？** 谁在使用，卡在哪一步，怎样才算解决了问题？
+2. **取舍是什么？** 实现成本、维护难度和不确定性，是否都考虑到了？
+3. **怎样验证？** 不只让功能跑起来，也关注部署、反馈和下一次迭代。
 
 ---
 
-<p align="center"><sub>Build useful things. Make room for playful ideas.</sub></p>
+<p align="center">
+  <a href="https://wainx.github.io/myWeb/"><strong>更多经历、作品与摄影 → 我的个人网站</strong></a>
+  <br><sub>Think clearly. Build thoughtfully. Keep learning.</sub>
+</p>
+
